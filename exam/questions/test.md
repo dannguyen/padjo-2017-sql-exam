@@ -1,6 +1,12 @@
+# Section X: Testing
+
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic eius eos consequuntur, cum ex omnis architecto itaque asperiores, saepe tempora, quaerat, quisquam consequatur ipsam! Cupiditate nam omnis cumque reiciendis praesentium.
+
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-Section X: Testing
+
 
 - [The legislators table](#the-legislators-table)
   - [A01. List the 5 youngest legislators](#a01-list-the-5-youngest-legislators)
@@ -14,10 +20,6 @@ Section X: Testing
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic eius eos consequuntur, cum ex omnis architecto itaque asperiores, saepe tempora, quaerat, quisquam consequatur ipsam! Cupiditate nam omnis cumque reiciendis praesentium.
-
-* toc code
-{:toc}
 
 
 ## The legislators table

@@ -11,6 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic eius eos consequun
 - [The legislators table](#the-legislators-table)
   - [A01. List the 5 youngest legislators](#a01-list-the-5-youngest-legislators)
     - [Expected results](#expected-results)
+    - [Answer](#answer)
   - [A02. Something else](#a02-something-else)
     - [Expected results](#expected-results-1)
 - [The other table](#the-other-table)
@@ -33,7 +34,6 @@ Use the `legislators` table. Make sure your result set has the exact same rows a
 
 
 #### Expected results
-
 | type | first_name | last_name     | party      | state | district | birthday   |
 | ---- | ---------- | ------------- | ---------- | ----- | -------- | ---------- |
 | rep  | Elise      | Stefanik      | Republican | NY    | 21       | 1984-07-02 |
@@ -42,6 +42,23 @@ Use the `legislators` table. Make sure your result set has the exact same rows a
 | rep  | Matt       | Gaetz         | Republican | FL    | 01       | 1982-05-07 |
 | rep  | Tulsi      | Gabbard       | Democrat   | HI    | 02       | 1981-04-12 |
 
+
+#### Answer
+~~~sql
+SELECT
+  type,
+  first_name,
+  last_name,
+  party,
+  state,
+  district,
+  birthday
+FROM 
+  legislators
+ORDER BY 
+  birthday DESC
+LIMIT 5;
+~~~
 
 
 

@@ -3,10 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 data/cook-county-payroll-original.csv
-
+_tmp/
 # C extensions
 *.so
-
+_drafts/
 # Distribution / packaging
 .Python
 build/

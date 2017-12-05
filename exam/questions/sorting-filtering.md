@@ -1,3 +1,37 @@
+# Section A: Sorting and Filtering
+
+No `GROUP BY` or `JOIN`, just worry primarily about `WHERE`, `ORDER BY`, and `LIMIT`, as well as how to select columns and alias them.
+
+
+
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [The legislators table](#the-legislators-table)
+  - [A01. List the 5 youngest legislators](#a01-list-the-5-youngest-legislators)
+    - [Expected results](#expected-results)
+  - [A02. List the entire Montana delegation in alphabetical order of last name](#a02-list-the-entire-montana-delegation-in-alphabetical-order-of-last-name)
+    - [Expected results](#expected-results-1)
+  - [A03. List the 10 legislators with the longest last names, using age as a tie-breaker](#a03-list-the-10-legislators-with-the-longest-last-names-using-age-as-a-tie-breaker)
+    - [Expected results](#expected-results-2)
+- [The `pres_states` table](#the-pres_states-table)
+  - [A04. List the 5 states in the 2016 election that skewed most Republican](#a04-list-the-5-states-in-the-2016-election-that-skewed-most-republican)
+    - [Expected results](#expected-results-3)
+  - [A05. List the 5 states in the 2012 election with the most 3rd-party vote](#a05-list-the-5-states-in-the-2012-election-with-the-most-3rd-party-vote)
+    - [Expected results](#expected-results-4)
+- [The `pres_districts` table](#the-pres_districts-table)
+  - [A06. List the 5 House districts in 2016 that went Republican, in order of smallest Republican vote percentage](#a06-list-the-5-house-districts-in-2016-that-went-republican-in-order-of-smallest-republican-vote-percentage)
+    - [Expected results](#expected-results-5)
+- [The `disbursements` table](#the-disbursements-table)
+  - [A07. List the top 10 most expensive expenditures made by legislators](#a07-list-the-top-10-most-expensive-expenditures-made-by-legislators)
+    - [Expected results](#expected-results-6)
+  - [A08. List the 5 most expensive non-salary related expenditures made by Rep. Duncan Hunter's (CA-50) office in the first quarter of 2017](#a08-list-the-5-most-expensive-non-salary-related-expenditures-made-by-rep-duncan-hunters-ca-50-office-in-the-first-quarter-of-2017)
+    - [Expected results](#expected-results-7)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 
 

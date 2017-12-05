@@ -1,4 +1,17 @@
-# Section X: testing
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+Section X: Testing
+
+- [The legislators table](#the-legislators-table)
+  - [A01. List the 5 youngest legislators](#a01-list-the-5-youngest-legislators)
+    - [Expected results](#expected-results)
+  - [A02. Something else](#a02-something-else)
+    - [Expected results](#expected-results-1)
+- [The other table](#the-other-table)
+  - [A03. Zorro's visitors guide](#a03-zorros-visitors-guide)
+    - [Expected results](#expected-results-2)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic eius eos consequuntur, cum ex omnis architecto itaque asperiores, saepe tempora, quaerat, quisquam consequatur ipsam! Cupiditate nam omnis cumque reiciendis praesentium.

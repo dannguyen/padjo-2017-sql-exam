@@ -43,6 +43,7 @@ Use the `legislators` table. Make sure your result set has the exact same rows a
 | rep  | Tulsi      | Gabbard       | Democrat   | HI    | 02       | 1981-04-12 |
 
 
+
 #### Answer
 ~~~sql
 SELECT

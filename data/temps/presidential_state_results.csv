@@ -1,0 +1,307 @@
+state,year,dem,rep,winner,winner_margin
+Alabama,2016,34.3,62.2,rep,27.9
+Alaska,2016,36.4,51.6,rep,15.2
+Arizona,2016,45.5,49,rep,3.5
+Arkansas,2016,33.6,60.6,rep,27
+California,2016,61.7,32.7,dem,29
+Colorado,2016,48.2,43.3,dem,4.9
+Connecticut,2016,54.5,41,dem,13.5
+Delaware,2016,53.4,41.9,dem,11.5
+Florida,2016,47.5,48.7,rep,1.2
+Georgia,2016,45.9,51,rep,5.1
+Hawaii,2016,62.2,30,dem,32.2
+Idaho,2016,27.5,59.3,rep,31.8
+Illinois,2016,55.3,38.7,dem,16.6
+Indiana,2016,37.9,57,rep,19.1
+Iowa,2016,41.7,51.2,rep,9.5
+Kansas,2016,36.2,57.2,rep,21
+Kentucky,2016,32.7,62.5,rep,29.8
+Louisiana,2016,38.4,58.1,rep,19.7
+Maine,2016,47.8,45.1,dem,2.7
+Maryland,2016,59.8,34.5,dem,25.3
+Massachusetts,2016,60.8,33.5,dem,27.3
+Michigan,2016,47.1,47.4,rep,0.3
+Minnesota,2016,46.4,44.9,dem,1.5
+Mississippi,2016,39.5,58.4,rep,18.9
+Missouri,2016,38,57.1,rep,19.1
+Montana,2016,35.9,56.5,rep,20.6
+Nebraska,2016,34.1,60.2,rep,26.1
+Nevada,2016,47.9,45.5,dem,2.4
+New Hampshire,2016,46.8,46.5,dem,0.3
+New Jersey,2016,54.7,41.3,dem,13.4
+New Mexico,2016,48.3,40,dem,8.3
+New York,2016,58.3,37.1,dem,21.2
+North Carolina,2016,46.1,49.9,rep,3.8
+North Dakota,2016,27.2,63,rep,35.8
+Ohio,2016,43.1,51.5,rep,8.4
+Oklahoma,2016,28.9,65.3,rep,36.4
+Oregon,2016,50.1,39.1,dem,11
+Pennsylvania,2016,47.3,48.4,rep,1.1
+Rhode Island,2016,54.4,38.9,dem,15.5
+South Carolina,2016,40.7,54.9,rep,14.2
+South Dakota,2016,31.7,61.5,rep,29.8
+Tennessee,2016,34.9,61.1,rep,26.2
+Texas,2016,43.3,52.4,rep,9.1
+Utah,2016,27.8,45.4,rep,17.6
+Vermont,2016,56.7,30.3,dem,26.4
+Virginia,2016,49.8,44.4,dem,5.4
+Washington,2016,52.9,37.1,dem,15.8
+West Virginia,2016,26.2,67.9,rep,41.7
+Wisconsin,2016,46.4,47.3,rep,0.9
+Wyoming,2016,21.9,68.2,rep,46.3
+District of Columbia,2016,90.9,4.1,dem,86.8
+Alabama,2012,38.4,60.5,rep,22.1
+Alaska,2012,40.8,54.8,rep,14
+Arizona,2012,44.4,53.5,rep,9.1
+Arkansas,2012,36.9,60.6,rep,23.7
+California,2012,60.2,37.1,dem,23.1
+Colorado,2012,51.4,46.1,dem,5.3
+Connecticut,2012,58.1,40.7,dem,17.4
+Delaware,2012,58.6,40,dem,18.6
+Florida,2012,49.9,49,dem,0.9
+Georgia,2012,45.4,53.2,rep,7.8
+Hawaii,2012,70.5,27.8,dem,42.7
+Idaho,2012,32.4,64.1,rep,31.7
+Illinois,2012,57.5,40.7,dem,16.8
+Indiana,2012,43.8,54,rep,10.2
+Iowa,2012,52,46.2,dem,5.8
+Kansas,2012,38,59.7,rep,21.7
+Kentucky,2012,37.8,60.5,rep,22.7
+Louisiana,2012,40.6,57.8,rep,17.2
+Maine,2012,56.3,41,dem,15.3
+Maryland,2012,62,35.9,dem,26.1
+Massachusetts,2012,60.7,37.5,dem,23.2
+Michigan,2012,54,44.6,dem,9.4
+Minnesota,2012,52.7,45,dem,7.7
+Mississippi,2012,43.8,55.3,rep,11.5
+Missouri,2012,44.3,53.6,rep,9.3
+Montana,2012,41.7,55.3,rep,13.6
+Nebraska,2012,38,59.8,rep,21.8
+Nevada,2012,52.4,45.7,dem,6.7
+New Hampshire,2012,52,46.4,dem,5.6
+New Jersey,2012,58.2,40.5,dem,17.7
+New Mexico,2012,53,42.8,dem,10.2
+New York,2012,63.3,35.2,dem,28.1
+North Carolina,2012,48.4,50.4,rep,2
+North Dakota,2012,38.7,58.3,rep,19.6
+Ohio,2012,50.6,47.6,dem,3
+Oklahoma,2012,33.2,66.8,rep,33.6
+Oregon,2012,54.2,42.1,dem,12.1
+Pennsylvania,2012,52,46.6,dem,5.4
+Rhode Island,2012,62.7,35.2,dem,27.5
+South Carolina,2012,44.1,54.6,rep,10.5
+South Dakota,2012,39.9,57.9,rep,18
+Tennessee,2012,39,59.4,rep,20.4
+Texas,2012,41.4,57.1,rep,15.7
+Utah,2012,24.7,72.5,rep,47.8
+Vermont,2012,66.6,31,dem,35.6
+Virginia,2012,51.2,47.3,dem,3.9
+Washington,2012,55.8,41,dem,14.8
+West Virginia,2012,35.5,62.1,rep,26.6
+Wisconsin,2012,52.8,45.9,dem,6.9
+Wyoming,2012,27.8,68.6,rep,40.8
+District of Columbia,2012,90.9,7.3,dem,83.6
+Alabama,2008,38.7,60.3,rep,21.6
+Alaska,2008,37.9,59.4,rep,21.5
+Arizona,2008,44.9,53.4,rep,8.5
+Arkansas,2008,38.9,58.7,rep,19.8
+California,2008,60.9,36.9,dem,24
+Colorado,2008,53.7,44.7,dem,9
+Connecticut,2008,60.6,38.2,dem,22.4
+Delaware,2008,61.9,36.9,dem,25
+Florida,2008,50.9,48.1,dem,2.8
+Georgia,2008,46.9,52.1,rep,5.2
+Hawaii,2008,71.8,26.6,dem,45.2
+Idaho,2008,35.9,61.2,rep,25.3
+Illinois,2008,61.8,36.7,dem,25.1
+Indiana,2008,49.8,48.8,dem,1
+Iowa,2008,53.9,44.4,dem,9.5
+Kansas,2008,41.6,56.5,rep,14.9
+Kentucky,2008,41.1,57.4,rep,16.3
+Louisiana,2008,39.9,58.6,rep,18.7
+Maine,2008,57.7,40.4,dem,17.3
+Maryland,2008,61.9,36.5,dem,25.4
+Massachusetts,2008,61.8,36,dem,25.8
+Michigan,2008,57.3,40.9,dem,16.4
+Minnesota,2008,54.1,43.8,dem,10.3
+Mississippi,2008,43,56.2,rep,13.2
+Missouri,2008,49.2,49.4,rep,0.2
+Montana,2008,47.1,49.5,rep,2.4
+Nebraska,2008,41.6,56.5,rep,14.9
+Nevada,2008,55.1,42.7,dem,12.4
+New Hampshire,2008,54.1,44.5,dem,9.6
+New Jersey,2008,57.1,41.6,dem,15.5
+New Mexico,2008,56.9,41.8,dem,15.1
+New York,2008,62.9,36,dem,26.9
+North Carolina,2008,49.7,49.4,dem,0.3
+North Dakota,2008,44.5,53.2,rep,8.7
+Ohio,2008,51.4,46.8,dem,4.6
+Oklahoma,2008,34.4,65.6,rep,31.2
+Oregon,2008,56.7,40.4,dem,16.3
+Pennsylvania,2008,54.5,44.2,dem,10.3
+Rhode Island,2008,62.9,35.1,dem,27.8
+South Carolina,2008,44.9,53.9,rep,9
+South Dakota,2008,44.7,53.2,rep,8.5
+Tennessee,2008,41.8,56.8,rep,15
+Texas,2008,43.6,55.4,rep,11.8
+Utah,2008,34.2,62.2,rep,28
+Vermont,2008,67.5,30.4,dem,37.1
+Virginia,2008,52.6,46.3,dem,6.3
+Washington,2008,57.3,40.3,dem,17
+West Virginia,2008,42.5,55.6,rep,13.1
+Wisconsin,2008,56.2,42.3,dem,13.9
+Wyoming,2008,32.5,64.8,rep,32.3
+District of Columbia,2008,92.5,6.5,dem,86
+Alabama,2004,36.8,62.5,rep,25.7
+Alaska,2004,35.5,61.1,rep,25.6
+Arizona,2004,44.3,54.8,rep,10.5
+Arkansas,2004,44.5,54.3,rep,9.8
+California,2004,54.3,44.4,dem,9.9
+Colorado,2004,47,51.7,rep,4.7
+Connecticut,2004,54.3,43.9,dem,10.4
+Delaware,2004,53.3,45.7,dem,7.6
+Florida,2004,47.1,52.1,rep,5
+Georgia,2004,41.3,57.9,rep,16.6
+Hawaii,2004,54,45.3,dem,8.7
+Idaho,2004,30.3,68.4,rep,38.1
+Illinois,2004,54.8,44.5,dem,10.3
+Indiana,2004,39.3,59.9,rep,20.6
+Iowa,2004,49.2,49.9,rep,0.7
+Kansas,2004,36.6,62,rep,25.4
+Kentucky,2004,39.7,59.5,rep,19.8
+Louisiana,2004,42.2,56.7,rep,14.5
+Maine,2004,53.6,44.6,dem,9
+Maryland,2004,55.9,42.9,dem,13
+Massachusetts,2004,61.9,36.8,dem,25.1
+Michigan,2004,51.2,47.8,dem,3.4
+Minnesota,2004,51.1,47.6,dem,3.5
+Mississippi,2004,39.8,59.4,rep,19.6
+Missouri,2004,46.1,53.3,rep,7.2
+Montana,2004,38.6,59.1,rep,20.5
+Nebraska,2004,32.7,65.9,rep,33.2
+Nevada,2004,47.9,50.5,rep,2.6
+New Hampshire,2004,50.2,48.9,dem,1.3
+New Jersey,2004,52.9,46.2,dem,6.7
+New Mexico,2004,49,49.8,rep,0.8
+New York,2004,58.4,40.1,dem,18.3
+North Carolina,2004,43.6,56,rep,12.4
+North Dakota,2004,35.5,62.9,rep,27.4
+Ohio,2004,48.7,50.8,rep,2.1
+Oklahoma,2004,34.4,65.6,rep,31.2
+Oregon,2004,51.3,47.2,dem,4.1
+Pennsylvania,2004,50.9,48.4,dem,2.5
+Rhode Island,2004,59.4,38.7,dem,20.7
+South Carolina,2004,40.9,58,rep,17.1
+South Dakota,2004,38.4,59.9,rep,21.5
+Tennessee,2004,42.5,56.8,rep,14.3
+Texas,2004,38.2,61.1,rep,22.9
+Utah,2004,26,71.5,rep,45.5
+Vermont,2004,58.9,38.8,dem,20.1
+Virginia,2004,45.5,53.7,rep,8.2
+Washington,2004,52.8,45.6,dem,7.2
+West Virginia,2004,43.2,56.1,rep,12.9
+Wisconsin,2004,49.7,49.3,dem,0.4
+Wyoming,2004,29.1,68.9,rep,39.8
+District of Columbia,2004,89.2,9.3,dem,79.9
+Alabama,2000,41.6,56.5,rep,14.9
+Alaska,2000,27.7,58.6,rep,30.9
+Arizona,2000,44.7,51,rep,6.3
+Arkansas,2000,45.9,51.3,rep,5.4
+California,2000,53.4,41.7,dem,11.7
+Colorado,2000,42.4,50.8,rep,8.4
+Connecticut,2000,55.9,38.4,dem,17.5
+Delaware,2000,55,41.9,dem,13.1
+Florida,2000,48.8,48.8,rep,0
+Georgia,2000,43,54.7,rep,11.7
+Hawaii,2000,55.8,37.5,dem,18.3
+Idaho,2000,27.6,67.2,rep,39.6
+Illinois,2000,54.6,42.6,dem,12
+Indiana,2000,41,56.6,rep,15.6
+Iowa,2000,48.5,48.2,dem,0.3
+Kansas,2000,37.2,58,rep,20.8
+Kentucky,2000,41.4,56.5,rep,15.1
+Louisiana,2000,44.9,52.6,rep,7.7
+Maine,2000,49.1,44,dem,5.1
+Maryland,2000,56.6,40.2,dem,16.4
+Massachusetts,2000,59.8,32.5,dem,27.3
+Michigan,2000,51.3,46.1,dem,5.2
+Minnesota,2000,47.9,45.5,dem,2.4
+Mississippi,2000,40.7,57.6,rep,16.9
+Missouri,2000,47.1,50.4,rep,3.3
+Montana,2000,33.4,58.4,rep,25
+Nebraska,2000,33.3,62.2,rep,28.9
+Nevada,2000,46,49.5,rep,3.5
+New Hampshire,2000,46.8,48.1,rep,1.3
+New Jersey,2000,56.1,40.3,dem,15.8
+New Mexico,2000,47.9,47.8,dem,0.1
+New York,2000,60.2,35.2,dem,25
+North Carolina,2000,43.2,56,rep,12.8
+North Dakota,2000,33.1,60.7,rep,27.6
+Ohio,2000,46.5,50,rep,3.5
+Oklahoma,2000,38.4,60.3,rep,21.9
+Oregon,2000,47,46.5,dem,0.5
+Pennsylvania,2000,50.6,46.4,dem,4.2
+Rhode Island,2000,61,31.9,dem,29.1
+South Carolina,2000,40.9,56.8,rep,15.9
+South Dakota,2000,37.6,60.3,rep,22.7
+Tennessee,2000,47.3,51.1,rep,3.8
+Texas,2000,38,59.3,rep,21.3
+Utah,2000,26.3,66.8,rep,40.5
+Vermont,2000,50.6,40.7,dem,9.9
+Virginia,2000,44.4,52.5,rep,8.1
+Washington,2000,50.1,44.6,dem,5.5
+West Virginia,2000,45.6,51.9,rep,6.3
+Wisconsin,2000,47.8,47.6,dem,0.2
+Wyoming,2000,27.7,67.8,rep,40.1
+District of Columbia,2000,85.2,9,dem,76.2
+Alabama,1996,43.2,50.1,rep,6.9
+Alaska,1996,33.3,50.8,rep,17.5
+Arizona,1996,46.5,44.3,dem,2.2
+Arkansas,1996,53.7,36.8,dem,16.9
+California,1996,51.1,38.2,dem,12.9
+Colorado,1996,44.4,45.8,rep,1.4
+Connecticut,1996,52.8,34.7,dem,18.1
+Delaware,1996,51.8,36.5,dem,15.3
+Florida,1996,48,42.3,dem,5.7
+Georgia,1996,45.8,47,rep,1.2
+Hawaii,1996,56.9,31.6,dem,25.3
+Idaho,1996,33.6,52.2,rep,18.6
+Illinois,1996,54.3,36.8,dem,17.5
+Indiana,1996,41.5,47.1,rep,5.6
+Iowa,1996,50.3,39.9,dem,10.4
+Kansas,1996,36.1,54.3,rep,18.2
+Kentucky,1996,45.8,44.9,dem,0.9
+Louisiana,1996,52,39.9,dem,12.1
+Maine,1996,51.6,30.8,dem,20.8
+Maryland,1996,54.3,38.3,dem,16
+Massachusetts,1996,61.5,28.1,dem,33.4
+Michigan,1996,51.7,38.5,dem,13.2
+Minnesota,1996,51.1,35,dem,16.1
+Mississippi,1996,44.1,49.2,rep,5.1
+Missouri,1996,47.5,41.2,dem,6.3
+Montana,1996,41.2,44.1,rep,2.9
+Nebraska,1996,35,53.7,rep,18.7
+Nevada,1996,43.9,42.9,dem,1
+New Hampshire,1996,49.3,39.4,dem,9.9
+New Jersey,1996,53.7,35.9,dem,17.8
+New Mexico,1996,49.2,41.9,dem,7.3
+New York,1996,59.5,30.6,dem,28.9
+North Carolina,1996,44,48.7,rep,4.7
+North Dakota,1996,40.1,46.9,rep,6.8
+Ohio,1996,47.4,41,dem,6.4
+Oklahoma,1996,40.4,48.3,rep,7.9
+Oregon,1996,47.2,39.1,dem,8.1
+Pennsylvania,1996,49.2,40,dem,9.2
+Rhode Island,1996,59.7,26.8,dem,32.9
+South Carolina,1996,43.9,49.9,rep,6
+South Dakota,1996,43,46.5,rep,3.5
+Tennessee,1996,48,45.6,dem,2.4
+Texas,1996,43.8,48.8,rep,5
+Utah,1996,33.3,54.4,rep,21.1
+Vermont,1996,53.4,31.1,dem,22.3
+Virginia,1996,45.1,47.1,rep,2
+Washington,1996,49.8,37.3,dem,12.5
+West Virginia,1996,51.5,36.8,dem,14.7
+Wisconsin,1996,48.8,38.5,dem,10.3
+Wyoming,1996,36.8,49.8,rep,13
+District of Columbia,1996,85.2,9.3,dem,75.9

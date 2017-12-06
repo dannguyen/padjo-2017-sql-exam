@@ -48,10 +48,6 @@ CREATE TABLE legislators (
     url TEXT
 );
 
-UPDATE legislators
-SET district = '0' || district
-WHERE CAST(district AS INTEGER) < 10
-    AND district IS NOT NULL;
 
 
 CREATE INDEX legislators_index_on_bioguide_id ON legislators(bioguide_id);

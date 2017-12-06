@@ -25,3 +25,6 @@ cat data/disbursements.csv \
     | csvsql --no-create --insert \
          --db sqlite:///${DBNAME} \
          --tables disbursements
+
+
+sqlite3 ${DBNAME} < updates.sql

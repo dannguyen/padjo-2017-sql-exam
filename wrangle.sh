@@ -1,8 +1,9 @@
 csvcut -c BIOGUIDE_ID,OFFICE,YEAR,QUARTER,CATEGORY,PURPOSE,PAYEE,AMOUNT \
       data/temps/all-disbursements.csv \
-    | csvgrep -c BIOGUIDE_ID -r '\w' \
-    > data/disbursements.csv
+     | csvgrep -c PURPOSE -r 'TOTALS:' -i \
+     > data/disbursements.csv
 
+#    | csvgrep -c BIOGUIDE_ID -r '\w' \
 
 csvcut -c bioguide_id,last_name,first_name,type,party,state,district,gender,birthday,twitter,facebook,url \
     data/temps/legislators-current.csv \
@@ -23,3 +24,6 @@ csvjoin -c state,full_name data/temps/presidential_state_results.csv \
     | sed 's/,rep,/,R,/' \
     | csvgrep -c year -r '2012|2016' \
     > data/pres_states.csv
+
+
+

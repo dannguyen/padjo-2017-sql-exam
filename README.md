@@ -1,25 +1,27 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [PADJO 2017 SQL Exam](#padjo-2017-sql-exam)
-  - [Instructions](#instructions)
-  - [Exam](#exam)
-  - [Background](#background)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-
 # PADJO 2017 SQL Exam 
-
 
 Now with extra election and disbursement data!
 
-Due date: Wednesday of Finals Week, 11:59PM
+Due date: **Wednesday of Finals Week, 11:59PM**
 
 The database to use:
   
 [padjo-2017-exam.sqlite](https://github.com/dannguyen/padjo-2017-sql-exam/raw/master/padjo-2017-exam.sqlite)
+
+
+
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Instructions](#instructions)
+- [Exam](#exam)
+- [Background](#background)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
 
 
 ---------------
@@ -45,6 +47,8 @@ This Google Doc should have this format:
 
 
 ## Exam
+
+The database to use: [padjo-2017-exam.sqlite](https://github.com/dannguyen/padjo-2017-sql-exam/raw/master/padjo-2017-exam.sqlite)
 
 - [Sorting and Filtering](exam/questions/sorting-filtering.md)
 - [Aggregation](exam/questions/aggregation.md)

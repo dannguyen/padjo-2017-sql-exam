@@ -101,7 +101,17 @@ Order the days in descending order of `birthdays`, and then in chronological ord
 
 Order the results by `type`, then `party`, then `gender`.
 
+Round the average age to the nearest tenth of a year (with the `ROUND` function).
 
+While there is a "proper" way to do date calculations, that's not necessary here. The "age" for any given legislator can be calculated with arithmetic, using `2017` as the reference year (i.e. their age, roughly, in the year 2017) and subtracting the *year* component of their `birthday`.
+
+For example, here's how to get a list of birthdays and their ages for 2017:
+
+~~~sql
+SELECT birthday,
+  (2017 - SUBSTR(birthday, 1, 4)) AS age
+FROM legislators;
+~~~
 
 
 

@@ -6,7 +6,7 @@ As before, pay attention to column arrangement, sort order, and the use of alias
 
 Add these answers to the Google Doc you created for the previous section, i.e. `padjo-2017-final-sql-exam-your_sunet_id`.
 
-
+(Return to the [exam homepage](https://github.com/dannguyen/padjo-2017-sql-exam/blob/master/README.md))
 
 
 Previous related work:

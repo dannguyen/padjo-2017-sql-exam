@@ -2,6 +2,7 @@
 
 No `GROUP BY` or `JOIN`, just worry primarily about `WHERE`, `ORDER BY`, and `LIMIT`, as well as how to select columns and alias them.
 
+(Return to the [exam homepage](https://github.com/dannguyen/padjo-2017-sql-exam/blob/master/README.md))
 
 
 

@@ -22,7 +22,8 @@ Previous related work:
 - [`legislators` table](#legislators-table)
   - [B01. Count the number of men and women currently in Congress](#b01-count-the-number-of-men-and-women-currently-in-congress)
     - [Expected results](#expected-results)
-  - [B02. List the days of the year in which more than one Republican House rep has a birthday](#b02-list-the-days-of-the-year-in-which-more-than-one-republican-house-rep-has-a-birthday)
+  - [B02. List the days of the year in which more than 3 Republican House reps has a birthday](#b02-list-the-days-of-the-year-in-which-more-than-3-republican-house-reps-has-a-birthday)
+  - [B02. List the days of the year in which more than 3 Republican House reps has a birthday](#b02-list-the-days-of-the-year-in-which-more-than-3-republican-house-reps-has-a-birthday-1)
     - [Expected results](#expected-results-1)
   - [B03. Count the number of men and women, and get their average age, by political party and type (i.e. Senators vs. Representatives)](#b03-count-the-number-of-men-and-women-and-get-their-average-age-by-political-party-and-type-ie-senators-vs-representatives)
     - [Expected results](#expected-results-2)
@@ -69,12 +70,27 @@ In the expected results below, note the *alias* used as the column name for the 
 -------------
 
 
-### B02. List the days of the year in which more than one Republican House rep has a birthday
+
+### B02. List the days of the year in which more than 3 Republican House reps has a birthday
 
 This exercise requires using the `HAVING` clause, which is used to filter an aggregate value, which you can't with just `WHERE`.
 
 Order the days in descending order of `birthdays`, and then in chronological order.
 
+Note that "day of the year" of someone's *birthday* is not the same as someone's actual **birth date**. The former is something like *May 9*, i.e. `05-09`, for someone who was born on *May 9, 2015*, i.e. `2015-05-09`.
+
+Use a text-transforming function to get that bit of the `birthday` value needed to then group by -- [we've used it before plenty of times](https://stackoverflow.com/questions/10413055/how-to-get-substring-in-sqlite).
+
+
+### B02. List the days of the year in which more than 3 Republican House reps has a birthday
+
+This exercise requires using the `HAVING` clause, which is used to filter an aggregate value, which you can't with just `WHERE`.
+
+Order the days in descending order of `birthdays`, and then in chronological order.
+
+Note that "day of the year" of someone's *birthday* is not the same as someone's actual **birth date**. The former is something like *May 9*, i.e. `05-09`, for someone who was born on *May 9, 2015*, i.e. `2015-05-09`.
+
+Use a text-transforming function to get that bit of the `birthday` value needed to then group by -- [we've used it before plenty of times](https://stackoverflow.com/questions/10413055/how-to-get-substring-in-sqlite).
 
 
 

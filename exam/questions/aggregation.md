@@ -22,8 +22,7 @@ Previous related work:
 - [`legislators` table](#legislators-table)
   - [B01. Count the number of men and women currently in Congress](#b01-count-the-number-of-men-and-women-currently-in-congress)
     - [Expected results](#expected-results)
-  - [B02. List the days of the year in which more than 3 Republican House reps has a birthday](#b02-list-the-days-of-the-year-in-which-more-than-3-republican-house-reps-has-a-birthday)
-  - [B02. List the days of the year in which more than 3 Republican House reps has a birthday](#b02-list-the-days-of-the-year-in-which-more-than-3-republican-house-reps-has-a-birthday-1)
+  - [B02. List the days of the year in which more than 3 Republicans share as a birthday](#b02-list-the-days-of-the-year-in-which-more-than-3-republicans-share-as-a-birthday)
     - [Expected results](#expected-results-1)
   - [B03. Count the number of men and women, and get their average age, by political party and type (i.e. Senators vs. Representatives)](#b03-count-the-number-of-men-and-women-and-get-their-average-age-by-political-party-and-type-ie-senators-vs-representatives)
     - [Expected results](#expected-results-2)
@@ -36,7 +35,7 @@ Previous related work:
 - [`disbursements` table](#disbursements-table)
   - [B06. List the 5 legislators who had the highest total expenditures for second quarter of 2017](#b06-list-the-5-legislators-who-had-the-highest-total-expenditures-for-second-quarter-of-2017)
     - [Expected results](#expected-results-5)
-  - [B07. List the frequency and total amount (in millions) of legislators' expenditures by category, for categories with at least $1M in total amount](#b07-list-the-frequency-and-total-amount-in-millions-of-legislators-expenditures-by-category-for-categories-with-at-least-1m-in-total-amount)
+  - [B07. List the frequency and total amount (in millions) of all expenditures by category, for categories with at least $1M in total amount](#b07-list-the-frequency-and-total-amount-in-millions-of-all-expenditures-by-category-for-categories-with-at-least-1m-in-total-amount)
     - [Expected results](#expected-results-6)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -71,7 +70,7 @@ In the expected results below, note the *alias* used as the column name for the 
 
 
 
-### B02. List the days of the year in which more than 3 Republican House reps has a birthday
+### B02. List the days of the year in which more than 3 Republicans share as a birthday
 
 This exercise requires using the `HAVING` clause, which is used to filter an aggregate value, which you can't with just `WHERE`.
 
@@ -81,19 +80,7 @@ Note that "day of the year" of someone's *birthday* is not the same as someone's
 
 Use a text-transforming function to get that bit of the `birthday` value needed to then group by -- [we've used it before plenty of times](https://stackoverflow.com/questions/10413055/how-to-get-substring-in-sqlite).
 
-
-### B02. List the days of the year in which more than 3 Republican House reps has a birthday
-
-This exercise requires using the `HAVING` clause, which is used to filter an aggregate value, which you can't with just `WHERE`.
-
-Order the days in descending order of `birthdays`, and then in chronological order.
-
-Note that "day of the year" of someone's *birthday* is not the same as someone's actual **birth date**. The former is something like *May 9*, i.e. `05-09`, for someone who was born on *May 9, 2015*, i.e. `2015-05-09`.
-
-Use a text-transforming function to get that bit of the `birthday` value needed to then group by -- [we've used it before plenty of times](https://stackoverflow.com/questions/10413055/how-to-get-substring-in-sqlite).
-
-
-
+**Correction**: In a previous version of this exercise, the prompt asked for birthdays belonging to *more than one* Republican House rep. I had meant to ask you to find birthdays with *more than 3* Republicans (House and Senate) sharing it. 
 
 
 
@@ -212,7 +199,7 @@ Remember that expenditures by legislators' offices (as opposed to committees) me
 
 
 
-### B07. List the frequency and total amount (in millions) of legislators' expenditures by category, for categories with at least $1M in total amount
+### B07. List the frequency and total amount (in millions) of all expenditures by category, for categories with at least $1M in total amount
 
 
 List the results in descending order of amount spent. 
@@ -221,6 +208,14 @@ For `total_millions`, round to the nearest tenth of a million. To get the amount
 
 This exercise requires the `HAVING` clause.
 
+**Correction**: previously, this question and headline asked for expenditures associated with legislators, i.e. requiring you to filter like this:
+
+
+```
+    WHERE bioguide IS NOT NULL
+```
+
+However, I had meant for the calculation and results to include all the data.
 
 
 

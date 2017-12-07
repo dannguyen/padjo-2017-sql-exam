@@ -80,7 +80,7 @@ Note that "day of the year" of someone's *birthday* is not the same as someone's
 
 Use a text-transforming function to get that bit of the `birthday` value needed to then group by -- [we've used it before plenty of times](https://stackoverflow.com/questions/10413055/how-to-get-substring-in-sqlite).
 
-**Correction**: In a previous version of this exercise, the prompt asked for birthdays belonging to *more than one* Republican House rep. I had meant to ask you to find birthdays with *more than 3* Republicans (House and Senate) sharing it. 
+> **Correction**: In a previous version of this exercise, the prompt asked for birthdays belonging to *more than one* Republican House rep. I had meant to ask you to find birthdays with *more than 3* Republicans (House and Senate) sharing it. 
 
 
 
@@ -208,7 +208,7 @@ For `total_millions`, round to the nearest tenth of a million. To get the amount
 
 This exercise requires the `HAVING` clause.
 
-**Correction**: previously, this question and headline asked for expenditures associated with legislators, i.e. requiring you to filter like this:
+> **Correction**: previously, this question and headline asked for expenditures associated with legislators, i.e. requiring you to filter like this:
 
 
 ```

@@ -212,7 +212,7 @@ This exercise requires the `HAVING` clause.
 
 
 ```
-    WHERE bioguide IS NOT NULL
+    WHERE bioguide_id IS NOT NULL
 ```
 
 However, I had meant for the calculation and results to include all the data.

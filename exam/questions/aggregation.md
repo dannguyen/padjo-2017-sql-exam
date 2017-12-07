@@ -2,7 +2,7 @@
 
 These questions test your grasp of `GROUP BY` and aggregation functions (e.g. `MAX`, `MIN`, `AVG`, `SUM`, `COUNT`). There are a couple questions that require the `HAVING` clause; to make things a little easier, these questions specifically mention `HAVING`.
 
-As before, pay attention to column arrangement, sort order, and the use of aliases to get the desired column names for the expected results. 
+As before, pay attention to column arrangement, sort order, and the use of aliases to get the desired column names for the expected results. The number of results should also be the same -- if you have more/less, you either didn't use `LIMIT` as implied by the question (i.e. "The top 5 legislators..."), or, your query is incorrect (or, just as likely, what I had intended to ask for is not accurately described by the prompt/text, so ask me if you have any real head-scratchers!)
 
 Add these answers to the Google Doc you created for the previous section, i.e. `padjo-2017-final-sql-exam-your_sunet_id`.
 

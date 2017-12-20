@@ -61,6 +61,8 @@ The database to use: [padjo-2017-exam.sqlite](https://github.com/dannguyen/padjo
 
 ## Background
 
+https://projects.propublica.org/represent/expenditures
+
 
 https://www.dailykos.com/stories/2017/1/30/1627319/-Daily-Kos-Elections-presents-the-2016-presidential-election-results-by-congressional-district
 
